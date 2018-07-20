@@ -12,3 +12,5 @@ GAME RULES:
 - The first player to reach 100 points on GLOBAL score wins the game
 
 */
+
+Includes challenges.js file with optional JavaScript code to change game rules.
